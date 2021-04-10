@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='CPE501Group7_solarCalculator'
